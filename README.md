@@ -1,1 +1,1 @@
-Portfolio Live demo 👉🏻: "https://anandkr.netlify.app/"
+Portfolio Live demo 👉🏻: https://anandkr.netlify.app/
