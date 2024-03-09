@@ -74106,7 +74106,7 @@ A.Cc.prototype={
 H(a){return A.iA("assets/person.png",B.yw,null)}}
 A.Cf.prototype={
 H(a){var s,r,q,p,o,n=null,m=t.w,l=A.O(a,n,m).w.a.a<=600?14:18,k=A.O(a,n,m).w.a.a<=600?8:10,j=A.O(a,n,m).w.a.a<=600?0:2
-j=A.fa(B.ax,16,n,1.4,A.O(a,n,m).w.a.a<=600?0:1,B.dX,"I'm a passionate frontend and backend developer based in India with experience in Android and Web development, expertise in  Flutter,Firebase, React, Nodejs, Mongo Db.I'm a quick learner who is seeking to find the opportunity to work in a challenging environment that will encourage me to improve and learn new and necessary skills.",j)
+j=A.fa(B.ax,16,n,1.4,A.O(a,n,m).w.a.a<=600?0:1,B.dX,"I'm a passionate frontend and backend developer based in India with experience in Android and Web development, expertise in  Flutter, Firebase, React, Nodejs, Mongodb. I'm a quick learner who is seeking to find the opportunity to work in a challenging environment that will encourage me to improve and learn new and necessary skills.",j)
 s=A.O(a,n,m).w.a.a<=600?6:10
 r=t.p
 q=A.anR(A.a([B.ya,A.jD(n,B.Ha,B.aq,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.SX(),n,n,n,n,n,n)],r))
